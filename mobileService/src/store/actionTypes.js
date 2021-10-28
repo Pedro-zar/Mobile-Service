@@ -1,0 +1,3 @@
+export const FAZER_LOGIN = "FAZER_LOGIN";
+export const FAZER_LOGOUT = "FAZER_LOGOUT";
+export const GUARDAR_STATE = "GUARDAR_STATE";
